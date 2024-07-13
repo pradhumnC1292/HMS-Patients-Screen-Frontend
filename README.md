@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/hospital-management-frontend.git
+git clone `https://github.com/YourUsername/hospital-management-frontend.git`
 cd hospital-management-frontend
 Install dependencies:
 
@@ -38,9 +38,8 @@ npm install
 
 Set up environment variables. Create a .env file in the root directory and add the following variables:
 
-makefile
 Copy code
-REACT_APP_API_URL=http://localhost:5000/api/v1
+REACT_APP_API_URL=`http://localhost:5000/api/v1`
 
 # Environment Variables
 `REACT_APP_API_URL`: The base URL for the API endpoints.
