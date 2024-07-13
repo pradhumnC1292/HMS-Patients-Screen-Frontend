@@ -5,19 +5,30 @@ This project consists of two frontend applications for a Hospital Management Sys
 
 # Table of Contents
 ## General Frontend
-Installation
-Environment Variables
-Usage
-Features
-Contributing
-License
+. Installation
+
+. Environment Variables
+
+. Usage
+
+. Features
+
+. Contributing
+
+. License
+
 ## Dashboard Frontend
-Installation
-Environment Variables
-Usage
-Features
-Contributing
-License
+. Installation
+
+. Environment Variables
+
+. Usage
+
+ .Features
+ 
+. Contributing
+
+. License
 
 
 # General Frontend
