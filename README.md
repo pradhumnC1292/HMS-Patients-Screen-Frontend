@@ -1,7 +1,11 @@
 # Hospital Management System
 ### This project consists of two frontend applications for a Hospital Management System: a general frontend for patients and a dashboard for administrators and staff.
 
-## Hosted Link : https://hms-patients-screen-frontend.netlify.app
+## Hosted Link 
+
+## frontend for patients : https://hms-patients-screen-frontend.netlify.app
+
+## dashboard for administrators and staff : https://admin-dashboard-hms-frontend.netlify.app
 
 # Table of Contents
 ## General Frontend
