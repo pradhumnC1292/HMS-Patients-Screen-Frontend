@@ -35,7 +35,8 @@ Install dependencies:
 bash
 Copy code
 npm install
-# Set up environment variables. Create a .env file in the root directory and add the following variables:
+
+Set up environment variables. Create a .env file in the root directory and add the following variables:
 
 makefile
 Copy code
